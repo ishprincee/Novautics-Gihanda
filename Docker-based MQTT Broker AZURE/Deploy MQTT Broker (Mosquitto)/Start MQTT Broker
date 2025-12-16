@@ -1,0 +1,24 @@
+docker-compose up
+
+#################################### YOU SHOULD SEE THIS ###############################
+
+
+azureuser@novautics-mqtt-vm:~/mqtt$ docker-compose up
+Creating network "mqtt_default" with the default driver
+Pulling mqtt (eclipse-mosquitto:latest)...
+latest: Pulling from library/eclipse-mosquitto
+2d35ebdb57d9: Pull complete
+35ae20b23dca: Pull complete
+4ab41a84cd6d: Pull complete
+Digest: sha256:077fe4ff4c49df1e860c98335c77dda08360629e0e2a718147027e4db3eace9d
+Status: Downloaded newer image for eclipse-mosquitto:latest
+Creating novautics-mqtt-broker ... done
+Attaching to novautics-mqtt-broker
+novautics-mqtt-broker | 1765894740: mosquitto version 2.0.22 starting
+novautics-mqtt-broker | 1765894740: Config loaded from /mosquitto/config/mosquitto.conf.
+novautics-mqtt-broker | 1765894740: Starting in local only mode. Connections will only be possible from clients running on this machine.
+novautics-mqtt-broker | 1765894740: Create a configuration file which defines a listener to allow remote access.
+novautics-mqtt-broker | 1765894740: For more details see https://mosquitto.org/documentation/authentication-methods/
+novautics-mqtt-broker | 1765894740: Opening ipv4 listen socket on port 1883.
+novautics-mqtt-broker | 1765894740: Opening ipv6 listen socket on port 1883.
+novautics-mqtt-broker | 1765894740: mosquitto version 2.0.22 running
