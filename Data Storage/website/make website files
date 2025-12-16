@@ -1,0 +1,6 @@
+cd ~
+rm -rf website
+mkdir website
+cd website
+
+
