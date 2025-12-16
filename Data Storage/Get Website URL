@@ -1,0 +1,5 @@
+az storage account show \
+  --name $STORAGE_ACCOUNT_NAME \
+  --resource-group $RESOURCE_GROUP_NAME \
+  --query "primaryEndpoints.web" \
+  --output tsv
