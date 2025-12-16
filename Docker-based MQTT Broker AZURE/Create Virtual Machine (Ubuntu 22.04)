@@ -1,0 +1,7 @@
+az vm create \
+  --resource-group $RESOURCE_GROUP \
+  --name $VM_NAME \
+  --image $IMAGE \
+  --size $VM_SIZE \
+  --admin-username $ADMIN_USER \
+  --generate-ssh-keys
