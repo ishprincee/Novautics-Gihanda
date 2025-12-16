@@ -1,0 +1,4 @@
+az storage blob upload-batch \
+  --destination \$web \
+  --source ./ \
+  --account-name $STORAGE_ACCOUNT_NAME
