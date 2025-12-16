@@ -1,0 +1,7 @@
+RESOURCE_GROUP="novautics-mqtt-rg"
+LOCATION="uksouth"
+VM_NAME="novautics-mqtt-vm"
+VM_SIZE="Standard_B1s"
+IMAGE="Ubuntu2204"
+ADMIN_USER="azureuser"
+
