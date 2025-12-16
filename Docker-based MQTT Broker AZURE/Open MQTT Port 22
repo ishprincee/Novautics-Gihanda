@@ -1,4 +1,4 @@
 az vm open-port \
   --resource-group $RESOURCE_GROUP \
   --name $VM_NAME \
-  --port 1883
+  --port 22
