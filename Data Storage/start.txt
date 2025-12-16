@@ -1,0 +1,9 @@
+Basics Tab
+Setting	Value
+Resource Group	novautics-db-rg
+VM Name	novautics-db-vm
+Region	Same as MQTT VM
+Image	Ubuntu Server 22.04 LTS
+Size	Standard_B1s
+Authentication	SSH public key
+Username	azureuser
