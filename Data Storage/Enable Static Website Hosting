@@ -1,0 +1,5 @@
+az storage blob service-properties update \
+  --account-name $STORAGE_ACCOUNT_NAME \
+  --static-website \
+  --index-document index.html \
+  --404-document error.html
