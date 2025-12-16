@@ -1,13 +1,13 @@
-{
-  "fqdns": "",
+ "fqdns": "",
   "id": "/subscriptions/bb48972e-c09b-4d92-9430-c6fdfc2454e4/resourceGroups/novautics-mqtt-rg/providers/Microsoft.Compute/virtualMachines/novautics-mqtt-vm",
   "location": "uksouth",
-  "macAddress": "60-45-BD-D2-A5-44",
+  "macAddress": "7C-1E-52-78-B6-FD",
   "powerState": "VM running",
   "privateIpAddress": "10.0.0.4",
-  "publicIpAddress": "172.166.127.51",
+  "publicIpAddress": "172.166.128.49",
   "resourceGroup": "novautics-mqtt-rg"
 
 
 ###  NECESSARY IP LATER ####
+
 
