@@ -1,3 +1,7 @@
 az ssh vm \
   --resource-group $RESOURCE_GROUP \
   --name $VM_NAME
+
+
+##############################################
+CONNECTED USING BASTION 
