@@ -1,0 +1,29 @@
+Go to Azure Portal
+
+Click Create a resource
+
+Search Web App
+
+Click Create
+
+Configure:
+
+Basics
+
+Subscription → your subscription
+
+Resource Group → novautics-rg
+
+Name → novautics-web-api (must be unique)
+
+Publish → Code
+
+Runtime stack → Python 3.10
+
+Operating System → Windows
+
+Region → Allowed region (e.g. UK South)
+
+Pricing Plan → F1 (Free)
+
+Click Review + Create → Create
