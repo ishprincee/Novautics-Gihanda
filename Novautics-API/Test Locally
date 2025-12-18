@@ -1,0 +1,8 @@
+## Still in VSCode run the app.py##########
+
+python app.py
+
+##############check in web browser ##########
+
+copy http://127.0.0.1:5000/ 
+
