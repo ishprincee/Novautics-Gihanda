@@ -1,0 +1,14 @@
+## OPEN FOLDER IN VSCODE###
+
+
+mkdir novautics-api
+cd novautics-api
+
+####################### START vENVIRONMENT ##############
+
+python -m venv venv
+venv\Scripts\activate
+
+pip install flask flask-restful paho-mqtt
+
+#################### ------the create the app.py###############
